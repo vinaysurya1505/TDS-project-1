@@ -6,13 +6,13 @@ GitHub Data Scraper: This project leverages GitHub’s API to retrieve and analy
 
 1. Data Scraping Process: The gitscrap.py script connects to the GitHub API, retrieving comprehensive datasets on both repositories and users. Utilizing Python’s requests library, the script iteratively fetches data by navigating through pagination to ensure the capture of all relevant records. Each data point is parsed and organized into a structured format before saving it as a CSV for analysis.
 
-Data collected using GitHub API
+        Data collected using GitHub API
 
-Date of collection: 2024-10-30
+        Date of collection: 2024-10-30
 
-Only included users with 100+ followers
-
-Up to 500 most recently pushed repositories per user
+        Only included users with 100+ followers
+ 
+        Up to 500 most recently pushed repositories per user
 
 3. Key Insights from Data Analysis: Upon analyzing the scraped data, one of the most surprising findings was the correlation between the number of forks and repository longevity. Repositories with higher fork counts tend to show consistent activity and maintenance, which often correlates with longer-term project relevance.
 
