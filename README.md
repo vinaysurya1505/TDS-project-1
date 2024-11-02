@@ -13,7 +13,7 @@ GitHub Data Scraper: This project leverages GitHub’s API to retrieve and analy
         Only included users with 100+ followers
  
         Up to 500 most recently pushed repositories per user
-
+ **Interesting Insight**
 3. Key Insights from Data Analysis: Upon analyzing the scraped data, one of the most surprising findings was the correlation between the number of forks and repository longevity. Repositories with higher fork counts tend to show consistent activity and maintenance, which often correlates with longer-term project relevance.
 
 4. Recommendations for Developers: Developers can increase their project’s visibility by focusing on documentation quality and encouraging contributions from newcomers. Open issues and welcoming contribution guidelines significantly increase engagement rates, leading to a more robust project lifecycle.
