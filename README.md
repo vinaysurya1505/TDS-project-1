@@ -25,4 +25,4 @@ GitHub Data Scraper: This project leverages GitHub’s API to retrieve and analy
 1. `users.csv`: Contains information about 380 GitHub users in Chicago with over 100 followers
 2. `repositories.csv`: Contains information about 35414 public repositories from these users
 3. `gitscrap.py`: Python script used to collect this data
-4. `Analysis_colab1_.ipynb`: Colab notebook used for ananlysis of all the question.
+4. `Analysis_colab1_.ipynb`: Colab notebook used for analysis of all the questions
