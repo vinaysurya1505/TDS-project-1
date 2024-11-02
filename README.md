@@ -1,4 +1,4 @@
-## GitHub Users in Chicago1
+## GitHub Users in Chicago
 
 This repository contains data about GitHub users in Chicago with over 100 followers and their repositories.
 
